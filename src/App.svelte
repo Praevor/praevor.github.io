@@ -1,0 +1,1 @@
+<p class="text-xl font-bold">Coming soon!</p>
